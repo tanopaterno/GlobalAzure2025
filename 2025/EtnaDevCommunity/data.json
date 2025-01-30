@@ -1,0 +1,32 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "EtnaDev Community",
+    "Country": "Italy",
+    "Url": "https://www.eventbrite.it/e/1227946313479",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "sipvqmju",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2025-etnadevcommunity/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "logoEtnaDevCommunity.jpg"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Paradigma",
+        "Address": "Viale Africa 31, Catania",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": 37.51222872552896,
+        "Longitude": 15.10334427531063
+      }
+    ]
+  }
+}
